@@ -1,4 +1,4 @@
-**Greetings, Music Enthusiasts! Karthik Kavathekar here.**
+**Greetings, Coding Enthusiasts! Karthik Kavathekar here.**
 
 I'm thrilled to share an exciting project with you – the creation of a dynamic website exclusively designed for musical instrumental playing artists. Our goal is to build a vibrant space that not only allows artists to showcase their talents but also empowers them to manage their musical journey seamlessly.
 
